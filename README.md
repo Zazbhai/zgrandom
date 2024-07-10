@@ -3,7 +3,7 @@
 ```python
 import zgrandom
 
-array = ["Zaz", "Chandan", "Luci", "Eren", "Epis"]
+array = ["Zaz", "Chan", "Luci", "Eren", "Epis"]
 
 result = zgrandom.random(array)
 print(result)
